@@ -2,7 +2,7 @@
 
 # Hi there, I'm Jun Suzuki! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AWS+Solutions+Architect+☁️;AI+Development+Expert+🤖;Claude+Code+Specialist+⚡;DevOps+%26+Security+Engineer+🛡️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AWS+Solutions+Architect+☁️)](https://git.io/typing-svg)
 
 </div>
 
