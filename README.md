@@ -28,9 +28,13 @@ class JunSuzuki:
     def get_expertise_level(self, technology):
         expertise = {
             "AWS": "Expert 🔥",
-            "Python": "Advanced 🐍",
+            "Cloud Architecture": "Expert 🔥",
+            "Infrastructure as Code": "Expert 🔥",
+            "Python": "Advanced 🚀",
+            "DevOps": "Advanced 🚀",
             "JavaScript/TypeScript": "Intermediate ⚡",
-            "DevOps": "Growing 📈",
+            "React": "Intermediate ⚡",
+            "Docker": "Intermediate ⚡",
             "AI Development": "Passionate Learner 🤖"
         }
         return expertise.get(technology, "Always Learning 📚")
@@ -40,40 +44,38 @@ class JunSuzuki:
 
 ## 🛠️ Tech Stack & Expertise
 
-### Core Languages
-![Python](https://img.shields.io/badge/-Python_🔥_Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript_⚡_Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript_⚡_Intermediate-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Backend & Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-### Cloud & Infrastructure (Expert Level 🔥)
+### 🔥 Expert Level (専門家)
 ![AWS](https://img.shields.io/badge/-AWS_Expert_🔥-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![Cloud Architecture](https://img.shields.io/badge/-Cloud_Architecture_🔥-FF9900?style=flat-square&logo=icloud&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda_🔥-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2_🔥-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS_S3_🔥-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![IaC](https://img.shields.io/badge/-Infrastructure_as_Code_🔥-4B32C3?style=flat-square&logo=terraform&logoColor=white)
 
-### DevOps & Development Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude_Code_⚡-8A2BE2?style=flat-square&logo=anthropic&logoColor=white)
+### 🚀 Advanced Level (上級)
+![Python](https://img.shields.io/badge/-Python_🚀-3776AB?style=flat-square&logo=python&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps_🚀-2496ED?style=flat-square&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions_🚀-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### ⚡ Intermediate Level (中級)
+![JavaScript](https://img.shields.io/badge/-JavaScript_⚡-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript_⚡-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React_⚡-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git_⚡-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker_⚡-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB_⚡-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/-Firestore_⚡-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 📈 Growing/Learning (成長中・学習中)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud_📈-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS_📈-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5_📈-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3_📈-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 🤖 Passionate Learner (情熱的に探求中)
+![Claude Code](https://img.shields.io/badge/-Claude_Code_🤖-8A2BE2?style=flat-square&logo=anthropic&logoColor=white)
+![AI-TDD](https://img.shields.io/badge/-AI_TDD_🤖-00D9FF?style=flat-square&logo=openai&logoColor=white)
+![AI Development](https://img.shields.io/badge/-AI_Driven_Development_🤖-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white)
 
 ---
 
@@ -97,22 +99,6 @@ class JunSuzuki:
 - **☁️ Cloud Architecture** - Enterprise-grade AWS solutions design
 - **🛡️ Security Automation** - Infrastructure security best practices
 
----
-
-## 💻 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🎯 2025 Professional Goals
-
-- [ ] **🤖 Master Claude Code & AI Development Tools** - Become an expert in AI-assisted development
-- [ ] **🧪 Establish AI-TDD Best Practices** - Document and share proven AI testing methodologies
-- [ ] **🛡️ Strengthen DevOps & Security Skills** - Advanced infrastructure automation and security
-- [ ] **📝 Contribute to Tech Community** - Share knowledge through Qiita, DevelopersIO articles
-- [ ] **☁️ Advanced AWS Certifications** - Deepen cloud architecture expertise
 
 ---
 
